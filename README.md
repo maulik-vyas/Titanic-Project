@@ -1,1 +1,1 @@
-# Who got alive and Who died
+# Titanic Dataset
